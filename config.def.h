@@ -10,7 +10,7 @@ static char *font = "Meslo LG S DZ for Powerline:pixelsize=16:antialias=true:aut
 static char *font2[] = {
     "Droid Sans Mono Nerd Font Complete:pixelsize=16:antialias=true:autohint=true"
 /*	"Meslo LG S DZ for Powerline:pixelsize=12:antialias=true:autohint=true" */
-/*	"Hack Nerd Font Mono:pixelsize=11:antialias=true:autohint=true", */
+    "Hack Nerd Font Mono:pixelsize=11:antialias=true:autohint=true", 
 };
 
 static int borderpx = 2;
